@@ -46,11 +46,10 @@
 
 ## 기능
 
-1. mbti 검사를 통한 자신과 성향이 맞는 강아지 추천 url: https://github.com/DongHyunKIM-Hi/mbti
+1. mbti 검사 : https://github.com/DongHyunKIM-Hi/mbti
 2. chat봇을 통한 상담
-3. 게시글 및 댓글 CRUD 기능
-4. 좋아요 구현
-5. 회원가입 / 로그인
+3. 게시글, 댓글 기본 CRUD 및 좋아요 기능
+4. 회원가입 / 로그인
 
 <br>
 
