@@ -2,6 +2,11 @@
 
 ![logo](src/main/resources/templates/image/logo.png)
 
+항해99 charter05 미니프로젝트 `발견` 백엔드 저장소입니다.
+
+프론트엔드 저장소: https://github.com/rlagudals95/mini_project_front_end
+
+
 [영상으로 보러가기](https://www.youtube.com/watch?v=zX-L3am3so4)
 
 ```
